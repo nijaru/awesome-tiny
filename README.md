@@ -9,6 +9,7 @@ Awesome list for tiny implementations
 - [Blockchain](#blockchain)
 - [Compilers & Interpreters](#compilers-interpreters)
 - [Containers](#containers)
+- [Networking](#networking)
 - [License](#license)
 
 <!-- /TOC -->
@@ -23,6 +24,9 @@ Awesome list for tiny implementations
 
 ## Containers
 - [Linux containers in 500 lines of code](https://blog.lizzie.io/linux-containers-in-500-loc.html)
+
+## Networking
+- [Writing a reverse proxy/loadbalancer from the ground up in C](http://www.gilesthomas.com/2013/08/writing-a-reverse-proxyloadbalancer-from-the-ground-up-in-c-part-0/)
 
 ## License
 [MIT License](LICENSE)
