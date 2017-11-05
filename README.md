@@ -12,3 +12,6 @@ Awesome list for tiny implementations
 
 ## containers
 - [Linux containers in 500 lines of code](https://blog.lizzie.io/linux-containers-in-500-loc.html)
+
+## license
+[MIT License](LICENSE)
