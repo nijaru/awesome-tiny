@@ -20,10 +20,11 @@ Awesome list for tiny implementations
 - [Building Blockchain in Go](https://jeiwan.cc/posts/building-blockchain-in-go-part-1/)
 
 ## Compilers & Interpreters
-
+- [Writing a basic x86-64 JIT compiler from scratch in stock Python](https://github.com/cslarsen/minijit)
 
 ## Containers
 - [Linux containers in 500 lines of code](https://blog.lizzie.io/linux-containers-in-500-loc.html)
+- [Containers from Scratch](https://ericchiang.github.io/post/containers-from-scratch/)
 
 ## Networking
 - [Writing a reverse proxy/loadbalancer from the ground up in C](http://www.gilesthomas.com/2013/08/writing-a-reverse-proxyloadbalancer-from-the-ground-up-in-c-part-0/)
