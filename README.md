@@ -23,6 +23,7 @@ Awesome list for tiny implementations
 
 ## Compilers & Interpreters
 
+* [tiny-optimising-compiler](https://github.com/bollu/tiny-optimising-compiler)
 * [(How to Write a (Lisp) Interpreter (in Python)) ](http://norvig.com/lispy.html)
 * [Writing a basic x86-64 JIT compiler from scratch in stock Python](https://github.com/cslarsen/minijit)
 
