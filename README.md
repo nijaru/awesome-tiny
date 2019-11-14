@@ -35,6 +35,7 @@ Awesome list for tiny implementations
 ## Networking
 
 * [Writing a reverse proxy/loadbalancer from the ground up in C](http://www.gilesthomas.com/2013/08/writing-a-reverse-proxyloadbalancer-from-the-ground-up-in-c-part-0/)
+* [Let's Create a Simple Load Balancer With Go](https://kasvith.github.io/posts/lets-create-a-simple-lb-go/)
 
 ## License
 
