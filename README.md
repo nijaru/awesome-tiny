@@ -7,6 +7,7 @@ Awesome list for tiny implementations.
 * [Blockchain](#blockchain)
 * [Compilers and Interpreters](#compilers-and-interpreters)
 * [Containers](#containers)
+* [Databases](#databases)
 * [Networking](#networking)
 
 ## Blockchain
@@ -25,6 +26,10 @@ Awesome list for tiny implementations.
 
 * [Linux containers in 500 lines of code](https://blog.lizzie.io/linux-containers-in-500-loc.html)
 * [Containers from Scratch](https://ericchiang.github.io/post/containers-from-scratch/)
+
+## Networking
+
+* [Let's Build a Simple Database](https://cstack.github.io/db_tutorial/)
 
 ## Networking
 
