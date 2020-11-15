@@ -13,7 +13,7 @@ Awesome list for tiny implementations.
 
 * [How to Build Your Own Blockchain](https://bigishdata.com/2017/10/17/write-your-own-blockchain-part-1-creating-storing-syncing-displaying-mining-and-proving-work/)
 * [Let's Build the Tiniest Blockchain](https://medium.com/crypto-currently/lets-build-the-tiniest-blockchain-e70965a248b)
-* [Building Blockchain in Go](https://jeiwan.cc/posts/building-blockchain-in-go-part-1/)
+* [Building a Blockchain in Go](https://jeiwan.net/posts/building-blockchain-in-go-part-1/)
 
 ## Compilers and Interpreters
 
