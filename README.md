@@ -14,7 +14,7 @@ Awesome list for tiny implementations.
 
 * [Let's Build the Tiniest Blockchain](https://medium.com/crypto-currently/lets-build-the-tiniest-blockchain-e70965a248b) - Build a blockchain in less than 50 lines of python.
 * [Building a Blockchain in Go](https://jeiwan.net/posts/building-blockchain-in-go-part-1/) - Build a simplified cryptocurrency that's based on a simple blockchain implementation.
-* [How to Build Your Own Blockchain](https://bigishdata.com/2017/10/17/write-your-own-blockchain-part-1-creating-storing-syncing-displaying-mining-and-proving-work/) - Simple blockchain (in python) to learn and talk about how blockchains work.
+* [How to Build Your Own Blockchain](https://bigishdata.com/2017/10/17/write-your-own-blockchain-part-1-creating-storing-syncing-displaying-mining-and-proving-work/) - Simple blockchain [in python] to learn and talk about how blockchains work.
 
 ## Compilers and Interpreters
 
